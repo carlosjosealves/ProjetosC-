@@ -1,0 +1,15 @@
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\bin\Debug\net7.0\Calculadora.tabada.exe
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\bin\Debug\net7.0\Calculadora.tabada.deps.json
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\bin\Debug\net7.0\Calculadora.tabada.runtimeconfig.json
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\bin\Debug\net7.0\Calculadora.tabada.dll
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\bin\Debug\net7.0\Calculadora.tabada.pdb
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.csproj.AssemblyReference.cache
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.AssemblyInfo.cs
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.dll
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\refint\Calculadora.tabada.dll
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.pdb
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\Calculadora.tabada.genruntimeconfig.cache
+C:\Users\carli\Desktop\CursoBalta\MeuApp\Calculadora.tabada\obj\Debug\net7.0\ref\Calculadora.tabada.dll
